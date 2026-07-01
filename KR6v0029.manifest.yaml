@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6v0029/v1
+canonical_location: https://kanripo.org/bkk/KR6v0029/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 《瑜伽師地論》披尋記敘
+  identifiers:
+    alt_id:
+    - W02n0022
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW02/ZW02n0022.xml
+    old_id: ZW02n0022
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0029_000.yaml, hash: 'sha256:cc33bb0a068d310c1d25db04a7ca5768016bd0b60abc2efb69b8b39c72f5f416'}
+  - {seq: 1, filename: KR6v0029_001.yaml, hash: 'sha256:9f671a8b09093cced590bc9efbef25c852c0145cc5076081b31219abbe7becc8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0029_000.markers.yaml, hash: 'sha256:bfc9b0086d8f83d2e2af8b61cd4854e4d2efbe2b339223a85236663431837815'}
+  - {seq: 1, role: markers, filename: assets/KR6v0029_001.markers.yaml, hash: 'sha256:de377e38e13c7eff0cd6daa4f5db645a00f52363cd4e2e9fd57e4544d76be0ca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0029_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0029_ZW_000-mulu-2
+    span:
+    - front
+    - 736
+    - 736
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0029_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 1414
+  label: 《瑜伽師地論》披尋記敘
+  type: juan
+  level: 1
+hash: sha256:3e69e56419d511e472b22e8deb44da99be4335737998439040deb7c77f425bf3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
