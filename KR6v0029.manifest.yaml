@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0029/v1
 canonical_location: https://kanripo.org/bkk/KR6v0029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 《瑜伽師地論》披尋記敘
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0029_000.yaml, hash: 'sha256:61c33af30dae4d4d3df161a9d8b4ab66bcc920c29eb82ef00f12b59f67b8b2b4'}
-  - {seq: 1, filename: KR6v0029_001.yaml, hash: 'sha256:f42323f6a522af7ce871612fae464f51a54ef0e4705e81e2c318ef7e16ac602f'}
+  - {seq: 0, filename: KR6v0029_000.yaml, hash: 'sha256:a7c3301c41433c60f039962150dbf2bdfd1b17318ab7630fa5cd9c38893efa56'}
+  - {seq: 1, filename: KR6v0029_001.yaml, hash: 'sha256:cf734012e938339efc3c88555e246bec7119ce77530bc4d8edbebda6cf32f77e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0029_000.markers.yaml, hash: 'sha256:6a43b985714c75ab696a31e7fcd61e1b0dd50f79b357ebf54cdef793193d3b6b'}
-  - {seq: 1, role: markers, filename: assets/KR6v0029_001.markers.yaml, hash: 'sha256:522350f85755f3f29329106195e4eb1636aa07ef70c3090eb5639f4138d496a0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0029_000.markers.yaml, hash: 'sha256:f5c02144ae80690e8b963abacf831629df51b6b7117af0e6ca6c635384c3a79a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0029_001.markers.yaml, hash: 'sha256:5cc1a819852a6405e34efc46ea6e45ba29c1c55a917619c7f554b6c43d7c860b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,6 +52,9 @@ table_of_contents:
   label: 《瑜伽師地論》披尋記敘
   type: juan
   level: 1
-hash: sha256:683105ff5f40e568fec7b1664048e85426466b14f2ffb77502c3d5f4bf80dd2b
+hash: sha256:b11f0a4a6404d58862030305181e4143bf5b6eb3e3fa43b4fc5cbf3656208db7
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
