@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0029_000.yaml, hash: 'sha256:a7c3301c41433c60f039962150dbf2bdfd1b17318ab7630fa5cd9c38893efa56'}
+  - {seq: 0, filename: KR6v0029_000.yaml, hash: 'sha256:ac7a226bc1494a3f89a8e64c2fccbb78770a4fae9e11f968ed2a40fac0973403'}
   - {seq: 1, filename: KR6v0029_001.yaml, hash: 'sha256:cf734012e938339efc3c88555e246bec7119ce77530bc4d8edbebda6cf32f77e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0029_000.markers.yaml, hash: 'sha256:f5c02144ae80690e8b963abacf831629df51b6b7117af0e6ca6c635384c3a79a'}
+  - {seq: 0, role: markers, filename: assets/KR6v0029_000.markers.yaml, hash: 'sha256:87154b9dbe0d6f513c55eaaf93f07de7676ec6f10246548d12fe767a714519aa'}
   - {seq: 1, role: markers, filename: assets/KR6v0029_001.markers.yaml, hash: 'sha256:5cc1a819852a6405e34efc46ea6e45ba29c1c55a917619c7f554b6c43d7c860b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0029_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0029_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 736
     - 736
   label: 錄文
@@ -52,7 +52,7 @@ table_of_contents:
   label: 《瑜伽師地論》披尋記敘
   type: juan
   level: 1
-hash: sha256:b11f0a4a6404d58862030305181e4143bf5b6eb3e3fa43b4fc5cbf3656208db7
+hash: sha256:fec95715c90fb2d8217f5125b994036582dac940a597cd0d59e159f710194a85
 editions:
 - short: ZW
 mappings:
